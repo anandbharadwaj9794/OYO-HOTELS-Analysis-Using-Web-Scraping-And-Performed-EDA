@@ -1,2 +1,3 @@
 # OYO-HOTELS-Analysis-Using-Web-Scraping-And-Performed-EDA
 End-to-end OYO Hotel Analysis. Features a custom web scraper (BeautifulSoup/Requests) and an in-depth EDA identifying correlations between hotel costs and guest ratings across major Indian cities. Tools: Python, Pandas, Seaborn, and Matplotlib
+End-to-end analysis of the Indian hospitality market using OYO data. Includes custom web scraping scripts, data preprocessing, and Univariate/Bivariate/Multivariate analysis to identify trends in hotel quality and costs. Built with Python, Pandas, Matplotlib, and Seaborn to help visualize regional pricing and service standards.
